@@ -1,2 +1,2 @@
 # First-Template
-My first templating using html and css
+My first template using html and css
